@@ -1,2 +1,3 @@
 # ToDoList
-Creating a to do list
+
+Creating a to do list with basic HTML, CSS and JS coding.
